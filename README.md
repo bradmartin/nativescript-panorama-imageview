@@ -8,7 +8,6 @@ Panoramic Image View for NativeScript that uses the device movement to pan the i
  - *PanoramaImageView* - https://github.com/gjiazhe/PanoramaImageView
 
 ## Screens
--------- | ---------
 ![Sample1](screens/pan1.gif) | ![Sample2](screens/pan2.gif)
 
 ## License
