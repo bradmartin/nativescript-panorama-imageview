@@ -1,0 +1,12 @@
+//default elements
+android {
+    productFlavors {
+        "nativescriptpanoramaimageview" {
+            dimension "nativescriptpanoramaimageview"
+        }
+    }
+}
+
+dependencies {
+   compile 'com.gjiazhe:PanoramaImageView:1.0'
+}

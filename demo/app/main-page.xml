@@ -1,0 +1,14 @@
+<Page 
+    xmlns="http://schemas.nativescript.org/tns.xsd" 
+    xmlns:PanoramaImageView="nativescript-panorama-imageview" navigatingTo="navigatingTo">
+    <Page.actionBar>
+        <ActionBar backgroundColor="#3489db" color="#fff" title="Panoramic ImageView"></ActionBar>
+    </Page.actionBar>
+    <ScrollView>
+        <StackLayout class="p-20">
+            <PanoramaImageView:PanoramaImageView height="220" id="piv" src="~/images/panSunset.jpg" />
+            <PanoramaImageView:PanoramaImageView height="200" id="piv2" scrollbar="true" src="https://cdn.pixabay.com/photo/2016/11/23/18/29/cloudy-1854241_960_720.jpg" />
+            <PanoramaImageView:PanoramaImageView height="240" id="piv2" src="https://cdn.pixabay.com/photo/2016/11/21/15/43/beach-1846040_960_720.jpg" />
+        </StackLayout>
+    </ScrollView>
+</Page>
