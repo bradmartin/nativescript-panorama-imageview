@@ -1,5 +1,8 @@
 [![npm](https://img.shields.io/npm/v/nativescript-panorama-imageview.svg)](https://www.npmjs.com/package/nativescript-panorama-imageview)
 [![npm](https://img.shields.io/npm/dt/nativescript-panorama-imageview.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-panorama-imageview)
+[![GitHub stars](https://img.shields.io/github/stars/bradmartin/nativescript-panorama-imageview.svg)](https://github.com/bradmartin/nativescript-panorama-imageview/stargazers)
+[![PayPal Donate](https://img.shields.io/badge/Donate-PayPal-ff4081.svg)](https://www.paypal.me/bradwayne88)
+
 
 # NativeScript-Panorama-ImageView
 Panoramic Image View for NativeScript that uses the device movement to pan the images.
